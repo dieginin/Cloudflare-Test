@@ -4,7 +4,7 @@ import flet as ft
 def main(page: ft.Page):
     counter = ft.Text("0", size=50, data=0)
     page.padding = 0
-    page.title = "Cloudflare Test4"
+    page.title = "Cloudflare Test6"
 
     def increment_click(e):
         counter.data += 1
