@@ -31,9 +31,5 @@
             "sizes": "192x192",
             "type": "image/png"
         }
-    ],
-    "apple_mobile": {
-        "apple_touch_icon": "icons/apple-touch-icon-192.png",
-        "status_bar_style": "default"
-    }
+    ]
 }
