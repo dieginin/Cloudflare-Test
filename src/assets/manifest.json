@@ -1,9 +1,5 @@
 {
     "name": "Cloudflare Test",
     "short_name": "CF Test",
-    "start_url": "/",
-    "display": "standalone",
-    "description": "Cloudflare Test Application",
-    "theme_color": "transparent",
-    "background_color": "transparent"
+    "description": "Cloudflare Test Application"
 }
