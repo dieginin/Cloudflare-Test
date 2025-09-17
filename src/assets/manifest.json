@@ -3,7 +3,7 @@
     "short_name": "CF Test",
     "strat_url": "/",
     "display": "standalone",
-    "background_color": "#FFFFFF",
-    "theme_color": "#038F75",
+    "background_color": "green",
+    "theme_color": "blue",
     "description": "Cloudflare Test Application"
 }
