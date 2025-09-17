@@ -1,0 +1,9 @@
+{
+    "name": "Cloudflare Test",
+    "short_name": "CF Test",
+    "strat_url": "/",
+    "display": "standalone",
+    "background_color": "#FFFFFF",
+    "theme_color": "#038F75",
+    "description": "Cloudflare Test Application"
+}

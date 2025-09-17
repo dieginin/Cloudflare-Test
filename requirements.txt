@@ -1,3 +1,1 @@
 flet
-pyrebase4
-setuptools
