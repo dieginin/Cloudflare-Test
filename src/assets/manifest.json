@@ -2,7 +2,7 @@
     "name": "Cloudflare Test",
     "short_name": "CF Test",
     "strat_url": "/",
-    "display": "standalome",
+    "display": "standalone",
     "description": "Cloudflare Test Application",
     "theme_color": "currentColor",
     "background_color": "currentColor"
