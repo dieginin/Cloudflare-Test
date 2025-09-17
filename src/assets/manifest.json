@@ -1,5 +1,55 @@
 {
     "name": "Cloudflare Test",
     "short_name": "CF Test",
-    "description": "Cloudflare Test Application"
+    "description": "Cloudflare Test Application",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "icon-120x120.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-152x152.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-167x167.png",
+            "sizes": "167x167",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-180x180.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "apple_mobile": {
+        "apple_touch_icon": "icon-180x180.png",
+        "status_bar_style": "default"
+    },
+    "apple_touch_icons": [
+        {
+            "sizes": "120x120",
+            "href": "icon-120x120.png"
+        },
+        {
+            "sizes": "152x152",
+            "href": "icon-152x152.png"
+        },
+        {
+            "sizes": "167x167",
+            "href": "icon-167x167.png"
+        },
+        {
+            "sizes": "180x180",
+            "href": "icon-180x180.png"
+        }
+    ]
 }
